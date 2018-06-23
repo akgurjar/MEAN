@@ -1,0 +1,24 @@
+{
+	"name": "mean",
+	"version": "0.0.0",
+	"description": "A boilerplate code for mean apps",
+	"private": true,
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/akgurjar/MEAN.git"
+	},
+	"keywords": [
+		"mean",
+		"nodejs",
+		"angular"
+	],
+	"author": "Ashish Gurjar <akp51081@gmail.com>",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/akgurjar/MEAN/issues"
+	},
+	"homepage": "https://github.com/akgurjar/MEAN#readme",
+	"workspaces": [
+		"projects/*"
+	]
+}

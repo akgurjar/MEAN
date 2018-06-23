@@ -1,2 +1,2 @@
 # MEAN
-A boilerplate code mean apps.
+A boilerplate code for mean apps.
